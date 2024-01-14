@@ -1,6 +1,5 @@
-<img src="" alt="description pic" /> 
+<img src="des/ita.jpeg" alt="description pic" /> 
 ## Version Control
-
 A Version Control System (VCS) is a software tool that helps manage changes to source code over time. It allows multiple developers to work collaboratively on a project, tracking changes and coordinating updates to the codebase. The primary goals of a version control system include:
 
 - **Tracking Changes:** VCS keeps a record of every change made to the source code, including details such as who made the change, when it was made, and a description of the change.
